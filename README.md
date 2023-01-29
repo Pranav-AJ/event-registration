@@ -25,11 +25,6 @@ Publish the website in the given URL.
 
 Validate the HTML and CSS code.
 
-### Step 6:
-
-Publish the website in the given URL.
-
-
 ## PROGRAM :
 ``` css
 position: relative;
